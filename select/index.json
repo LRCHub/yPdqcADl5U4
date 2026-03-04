@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "裸の勇者",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-03-04T02:19:13.405401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "裸の勇者",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_裸の勇者_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "裸の勇者",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_裸の勇者_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "裸の勇者 / Vaundy：MUSIC VIDEO",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_裸の勇者___Vaundy_MUSIC_VIDEO_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "裸の勇者",
+      "artist": "Vaundy - Topic",
+      "has_synced": true,
+      "path": "select/04_裸の勇者_Vaundy_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "裸の勇者 - Hadaka No Yusha",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/05_裸の勇者_-_Hadaka_No_Yusha_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "01. 裸の勇者",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/06_01._裸の勇者_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裸の勇者",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_裸の勇者_Vaundy.txt"
+    }
+  ]
+}
