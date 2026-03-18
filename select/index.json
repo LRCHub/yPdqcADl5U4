@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "裸の勇者",
   "base_artist": "Vaundy",
-  "createdAt": "2026-03-04T02:19:13.405401Z",
+  "createdAt": "2026-03-18T14:55:44.222318Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,24 @@
       "artist": "Vaundy",
       "has_synced": false,
       "path": "select/pl_01_裸の勇者_Vaundy.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "裸の勇者",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/localdb_01_裸の勇者_Vaundy.lrc",
+      "repo_name": "FT0GKCuSaW0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "裸の勇者",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/localdb_02_裸の勇者_Vaundy.txt",
+      "repo_name": "Gv0_07w36lU"
     }
   ]
 }
